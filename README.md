@@ -46,3 +46,5 @@ macOS arm64 - https://dwnvdo.net/dwnvdo-server-osx-arm64.zip
 12. A extensão deve aparecer na barra do navegador com o ícone verde, o que indica que o servidor está funcionando corretamente, caso apareça o ícone vermelho, verifique se o servidor foi iniciado.
     
 13. Mantenha o servidor em execução enquanto utiliza a extensão.
+
+#pandavideo #download #videos #panda #video
